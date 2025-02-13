@@ -10,7 +10,7 @@ body {
     overflow: hidden;
     background: linear-gradient(#0007, #0000), #123;
     background-color: #df6c7f;
-    background-image: url('https://i.pinimg.com/736x/5a/05/14/5a051459377285ecf80231a9ac9118a1.jpg');
+    background-image: url('https://img.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58931.jpg');
     background-size: cover;
     background-position: center;
     align-items: center; 
@@ -24,7 +24,7 @@ body {
     border-radius: 20px;
     border: 3px solid #ff6b81;
     box-shadow: 0 8px 20px rgba(255, 107, 129, 0.3);
-    max-width: 800px;
+    max-width: 900px;
     width: 90%;
     margin-bottom: 10px;
 }
@@ -91,7 +91,7 @@ button:nth-child(2) {
 
 .div1 {  
   font-family:'borel';
-  font-size: 20px ;
+  font-size: 30px ;
   text-align: center;
   color: #ff6b81;
   margin-bottom: 0px;
@@ -112,14 +112,14 @@ button:nth-child(2) {
 
 .blockHead {
     background-color: #df6c7f;
-    width: 120px;
+    width: 100px;
     height: 45px;
     border-radius:20px;
     display: inline-block;
      position: absolute;
      top: 60px;
-     left: -3%;
-     width: 35%;
+     left: 10%;
+     width: 25%;
      color: #faf4f5;
      text-align: center;
     padding: 5px;
